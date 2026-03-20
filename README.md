@@ -100,9 +100,9 @@ Rhythm-based action game integrating custom hardware input with Unity gameplay.
 
 ## Contact
 
-- Email: **esung7@wisc.edu**
+- Email: **ericsung17@gmail.com**
 - GitHub: **[Ericsung20](https://github.com/Ericsung20)**
-- LinkedIn: **[Add your LinkedIn here](https://www.linkedin.com/in/your-linkedin/)**
+- LinkedIn: **[https://www.linkedin.com/in/Eric--Sung)**
 
 ---
 
