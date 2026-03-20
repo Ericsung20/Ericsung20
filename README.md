@@ -2,7 +2,7 @@
 
 # Eric Sung
 
-### CS + Data Science @ UW–Madison  
+### Computer Science + Data Science @ UW–Madison  
 ### Building software, systems, and interactive experiences
 
 <br>
