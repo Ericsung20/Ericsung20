@@ -104,8 +104,4 @@ Git · GitHub · VS Code · Linux · MySQL · PostgreSQL · MongoDB · OpenGL ·
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Ericsung20">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ericsung20&show_icons=true&theme=react" />
-  </a>
 </div>
