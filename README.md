@@ -52,24 +52,6 @@ A rhythm-based action game integrating custom hardware input with Unity gameplay
 - Built gameplay systems for combo scoring, timing-based movement, and obstacle interaction
 - Designed fast-paced stages with music-driven action and responsive controls
 
-## Experience
-
-### Administrative and Mathematics Support Assistant  
-**Dawon Mathematics Academy** | Seoul, South Korea  
-June 2024 – February 2025
-
-- Supported academic operations for high school mathematics programs
-- Assisted with curriculum coordination, exam-range planning, and classroom execution
-- Helped students in Math I, Math II, Probability and Statistics, and Calculus
-
-### Instructional Media and Classroom Operations Assistant  
-**Kim Young Transfer Academy** | Seoul, South Korea  
-June 2021 – October 2021
-
-- Managed lecture recording and classroom AV setup across multiple academy sites
-- Supported both in-person and online instruction through technical troubleshooting
-- Edited recorded lectures, added captions, and handled production workflows
-
 ## Currently Interested In
 
 - Full-stack application development
