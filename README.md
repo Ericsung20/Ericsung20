@@ -9,7 +9,7 @@
 
 <p>
   <a href="mailto:ericsung17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-esung7@wisc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ericsung17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Ericsung20">
     <img src="https://img.shields.io/badge/GitHub-Ericsung20-181717?style=for-the-badge&logo=github&logoColor=white" />
