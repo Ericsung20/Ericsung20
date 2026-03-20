@@ -28,14 +28,26 @@ My interests span full-stack development, relational databases, computer graphic
 - Comfortable working across both front-end and back-end systems
 
 ---
-
 ## Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,git,github,vscode,linux,mysql,postgres,mongodb,unity,figma" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,reactnative,nextjs,nodejs,fastapi,git,github,vscode,linux,mysql,postgres,mongodb,unity,figma&perline=11" />
+## Also Worked With
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,arduino" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=5586A4" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" />
+</p>
+
 
 ---
 
