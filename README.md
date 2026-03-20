@@ -86,25 +86,6 @@ Rhythm-based action game integrating custom hardware input with Unity gameplay.
 **Stack:** C#, C++, Arduino, Unity  
 **Repo:** [Cross Blast](https://github.com/Ericsung20/CrossBlast-Arduino_Unity_Rhythm_Game)
 
----
-
-## Experience
-
-### Administrative and Mathematics Support Assistant  
-**Dawon Mathematics Academy**  
-Seoul, South Korea | Jun 2024 – Feb 2025
-
-- Supported academic operations for high school mathematics programs
-- Assisted with curriculum coordination, exam-range planning, and classroom execution
-- Helped students in Math I, Math II, Probability and Statistics, and Calculus
-
-### Instructional Media and Classroom Operations Assistant  
-**Kim Young Transfer Academy**  
-Seoul, South Korea | Jun 2021 – Oct 2021
-
-- Managed lecture recording and classroom AV setup across multiple academy sites
-- Supported both in-person and online instruction through technical troubleshooting
-- Edited lectures, added captions, and handled production workflows for recorded course content
 
 ---
 
