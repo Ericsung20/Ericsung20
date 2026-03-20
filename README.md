@@ -1,66 +1,146 @@
-# Hi, I'm Eric Sung 👋
+<div align="center">
 
-I'm a Computer Science and Data Science student at the University of Wisconsin–Madison with interests in software development, data-driven systems, computer graphics, and interactive experiences.
+# Eric Sung
 
-I enjoy building projects that combine technical problem-solving with practical user needs, from mobile applications and database systems to graphics programming and hardware-integrated games.
+### Building practical software, interactive systems, and user-focused experiences
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Data+Science+Student;Full-Stack+Developer;Database+%26+Systems+Builder;Computer+Graphics+%26+Interactive+Media" alt="Typing SVG" />
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-esung7%40wisc.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esung7@wisc.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-Ericsung20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ericsung20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Update_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+---
 
 ## About Me
 
-- BS in Computer Science and Data Science, University of Wisconsin–Madison
-- Interested in software engineering, full-stack development, databases, and graphics
-- Experienced with mobile app development, relational databases, and interactive systems
-- Enjoy building projects that are both technically solid and user-focused
+I'm a Computer Science and Data Science student at the University of Wisconsin–Madison who enjoys building software that is both technically strong and genuinely useful.
+
+My interests span full-stack development, relational databases, computer graphics, and interactive systems. I like projects that connect logic, design, and real user experience, whether that means a mobile app, a database platform, or a graphics-based game.
+
+- Studying Computer Science and Data Science at UW–Madison
+- Interested in software engineering, databases, graphics, and interactive applications
+- Enjoy building projects that combine technical depth with practical use
+- Comfortable working across both front-end and back-end systems
+
+---
 
 ## Tech Stack
 
-**Languages**  
-Java, Python, C, C++, JavaScript, TypeScript, SQL, HTML, CSS
+<div align="center">
 
-**Frameworks & Libraries**  
-React, React Native, Next.js, Node.js, FastAPI, Expo
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,reactnative,nextjs,nodejs,fastapi,git,github,vscode,linux,mysql,postgres,mongodb,unity,figma&perline=11" />
 
-**Tools & Platforms**  
-Git, GitHub, VS Code, Linux, MySQL, PostgreSQL, MongoDB, OpenGL, Unity, Maya, Arduino, Matlab, Figma
+</div>
+
+---
 
 ## Featured Projects
 
 ### What-To-Eat UW Dining Application
 A personalized dining hall application designed for UW–Madison students.
 
-- Built to support smart meal recommendations, nutrition-aware tracking, and social food-sharing features
-- Designed user flows for dining hall discovery, menu filtering, guest mode, and personalized preferences
-- Contributed to full-stack development using React Native, TypeScript, Python, and PostgreSQL
+- Built around meal recommendations, nutrition-aware tracking, and social food-sharing features
+- Designed user flows for hall discovery, filtering, guest mode, and profile preferences
+- Worked across React Native, TypeScript, Python, and PostgreSQL
+
+**Tech:** `React Native` `TypeScript` `Python` `PostgreSQL`
+
+---
 
 ### Minecraft 3D Maze with SOR Modeler
 A computer graphics project combining a custom SOR modeler with a first-person 3D maze game.
 
-- Built a complete graphics workflow from 3D model creation to real-time gameplay
+- Built a full workflow from 3D model creation to real-time gameplay
 - Implemented movement, collision detection, texture mapping, lighting, and sound
-- Developed modeling features including vertex editing, surface generation, mesh rendering, and model export
+- Developed modeling tools for vertex editing, surface generation, and mesh rendering
+
+**Tech:** `C++` `OpenGL` `GLUT`
+
+🔗 [View Project](https://github.com/Ericsung20/Minecraft-3D-Maze-with-SOR-Modeler)
+
+---
 
 ### Intelligent PC Configuration & Compatibility Database System
-A relational database system for PC build management and compatibility checking.
+A relational database system for PC build planning and compatibility validation.
 
-- Designed a structured database for component catalogs, user estimates, and community build-sharing
-- Implemented compatibility logic across major PC parts using normalized schemas and SQL queries
-- Focused on scalable data design, validation, and consistency across related entities
+- Designed structured schemas for components, estimates, and build-sharing workflows
+- Implemented compatibility checks across major PC parts using SQL queries
+- Focused on reliable validation, normalization, and scalable relational design
+
+**Tech:** `SQL` `MySQL` `ER Modeling`
+
+🔗 [View Project](https://github.com/Ericsung20/PC-Configuration-Database-System)
+
+---
 
 ### Cross Blast: Arduino-Unity Rhythm Game
-A rhythm-based action game integrating custom hardware input with Unity gameplay.
+A rhythm-based action game integrating hardware input with Unity gameplay.
 
-- Connected an Arduino-based controller to Unity through real-time serial communication
-- Built gameplay systems for combo scoring, timing-based movement, and obstacle interaction
-- Designed fast-paced stages with music-driven action and responsive controls
+- Connected a custom Arduino controller to Unity through serial communication
+- Built timing-based movement, combo scoring, and interactive stage mechanics
+- Designed a fast-paced music-driven play experience with responsive controls
 
-## Currently Interested In
+**Tech:** `C#` `C++` `Arduino` `Unity`
 
-- Full-stack application development
-- Data systems and database design
+🔗 [View Project](https://github.com/Ericsung20/CrossBlast-Arduino_Unity_Rhythm_Game)
+
+---
+
+## Experience
+
+### Administrative and Mathematics Support Assistant  
+**Dawon Mathematics Academy**  
+Seoul, South Korea | June 2024 – February 2025
+
+- Supported curriculum coordination, exam-range planning, and classroom operations
+- Assisted students in Math I, Math II, Probability and Statistics, and Calculus
+- Helped maintain smooth day-to-day academic support in a fast-paced environment
+
+### Instructional Media and Classroom Operations Assistant  
+**Kim Young Transfer Academy**  
+Seoul, South Korea | June 2021 – October 2021
+
+- Managed lecture recording and classroom AV setup across multiple academy sites
+- Supported both in-person and online classes through technical troubleshooting
+- Edited lectures, added captions, and handled production workflows for recorded content
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ericsung20&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericsung20&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Full-stack application architecture
+- Database design and scalable data systems
 - Computer graphics and interactive media
-- Building practical software for real users
+- Software projects with real-world usability
 
-## Connect With Me
+---
 
-- Email: esung7@wisc.edu
-- GitHub: [Ericsung20](https://github.com/Ericsung20)
-- LinkedIn: [linkedin.com/in/your-name](https://www.linkedin.com/in/your-name)
+## Connect
+
+- Email: **esung7@wisc.edu**
+- GitHub: **[Ericsung20](https://github.com/Ericsung20)**
+- LinkedIn: **[Add your LinkedIn here](https://www.linkedin.com/)**
+
+---
+
+<div align="center">
+
+### Thanks for visiting
+
+</div>
