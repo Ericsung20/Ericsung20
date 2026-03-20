@@ -1,107 +1,102 @@
-<h1 align="center">
-  Eric Sung | Computer Science Student
-</h1>
+<div align="center">
 
-<p align="center">
-  Computer Sciences and Data Science @ UW–Madison
-  <br/>Building practical software across full-stack development, databases, and interactive systems
-</p>
+# Eric Sung
 
-<p align="center">
-  <a href="mailto:ericsung17@gmail.com">ericsung17@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/your-name">LinkedIn</a> •
-  <a href="https://github.com/Ericsung20">GitHub</a>
-</p>
+Computer Science and Data Science Student at UW–Madison  
+Interested in full-stack development, database systems, graphics, and interactive software
+
+[Email](mailto:esung7@wisc.edu) · [GitHub](https://github.com/Ericsung20) · [LinkedIn](https://www.linkedin.com/in/your-name)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-- I am a Computer Science and Data Science student at the University of Wisconsin–Madison.
-- I enjoy building practical software projects across full-stack development, database systems, and interactive graphics.
-- My background includes mobile app development, relational database design, computer graphics, and hardware-integrated game systems.
-- I am especially interested in software engineering, user-centered application design, and building systems that are both functional and engaging.
+I am a student developer at the University of Wisconsin–Madison with experience building projects across mobile applications, computer graphics, database systems, and interactive game development.
 
----
-
-## 💻 Featured Projects
-
-### 🍽 What-To-Eat UW Dining Application
-Personalized dining application for UW–Madison students that combines meal recommendations, nutrition-aware tracking, and social food-sharing features in one mobile platform.
-
-- Designed end-to-end user flows for dining hall discovery, menu filtering, guest mode, user preferences, and community interaction
-- Supported full-stack development using React Native, TypeScript, Python, and PostgreSQL
-- Focused on accessibility, usability, and intuitive mobile-first student experiences
-
-**Tech:** React Native · TypeScript · Python · PostgreSQL
-
-[GitHub](https://github.com/your-repo-link)
+I enjoy turning ideas into working software and exploring how technical systems can be designed to feel intuitive, responsive, and useful. My projects reflect a mix of software engineering, UI-focused thinking, and hands-on experimentation with both code and systems.
 
 ---
 
-### 🎮 Minecraft 3D Maze with SOR Modeler
-C++ graphics project that combines a custom SOR modeler with a first-person 3D maze game built using OpenGL and GLUT.
+## Projects
 
-- Built an end-to-end graphics pipeline from 3D model creation to real-time gameplay
-- Implemented movement, collision handling, texture mapping, lighting, sound, and camera-based navigation
-- Developed custom modeling features including vertex editing, rotational surface generation, mesh rendering, and model export
+### What-To-Eat UW Dining Application
+A mobile dining application designed for UW–Madison students to make meal decisions more convenient, personalized, and interactive.
 
-**Tech:** C++ · OpenGL · GLUT
+- Built features around dining hall discovery, menu filtering, guest access, and user-centered mobile flows
+- Worked across front-end and back-end functionality using React Native, TypeScript, Python, and PostgreSQL
+- Focused on usability, accessibility, and practical student use cases
 
-[GitHub](https://github.com/Ericsung20/Minecraft-3D-Maze-with-SOR-Modeler)
-
----
-
-### 🗃 Intelligent PC Configuration & Compatibility Database System
-Relational database system for a PC build platform supporting component catalogs, user estimates, community posts, and build-sharing workflows.
-
-- Designed normalized schemas and multi-entity relational structures for scalable data organization
-- Built compatibility logic across CPU, motherboard, memory, and power constraints
-- Strengthened data consistency through foreign keys, structured SQL design, and multi-table query workflows
-
-**Tech:** SQL · MySQL · ER Modeling
-
-[GitHub](https://github.com/Ericsung20/PC-Configuration-Database-System)
+**Tech Stack:** React Native, TypeScript, Python, PostgreSQL
 
 ---
 
-### 🎵 Cross Blast: Arduino-Unity Rhythm Game
-Rhythm-based action game integrating a custom Arduino controller with Unity for real-time beat-synced gameplay.
+### Minecraft 3D Maze with SOR Modeler
+A computer graphics project that combines a custom SOR modeler with a first-person 3D maze experience.
 
-- Connected Arduino hardware input with Unity through serial communication
-- Designed gameplay systems around combo scoring, directional timing input, and stage mechanics
-- Built fast-paced stages featuring hazards such as missiles, firewalls, and bombs for responsive arcade-style interaction
+- Developed a full graphics workflow from 3D object generation to real-time gameplay
+- Implemented core features such as camera movement, collision detection, texture mapping, lighting, and sound
+- Created custom modeling tools including vertex editing, rotational surface generation, mesh rendering, and export support
 
-**Tech:** C# · C++ · Arduino · Unity
+**Tech Stack:** C++, OpenGL, GLUT
 
-[GitHub](https://github.com/Ericsung20/CrossBlast-Arduino_Unity_Rhythm_Game)
+[Repository](https://github.com/Ericsung20/Minecraft-3D-Maze-with-SOR-Modeler)
 
 ---
 
-## 🛠 Tech Stack
+### Intelligent PC Configuration and Compatibility Database System
+A relational database project for managing PC part selection, compatibility checks, user estimates, and community-driven build data.
+
+- Designed normalized schemas for structured and scalable data management
+- Built compatibility logic across major hardware components using relational modeling and SQL queries
+- Strengthened database design skills through multi-table relationships, constraints, and query-based validation
+
+**Tech Stack:** SQL, MySQL, ER Modeling
+
+[Repository](https://github.com/Ericsung20/PC-Configuration-Database-System)
+
+---
+
+### Cross Blast
+A rhythm-based game project connecting Arduino hardware with Unity for real-time gameplay interaction.
+
+- Integrated hardware input into Unity through serial communication
+- Designed responsive gameplay mechanics centered on timing, motion, and score-based interaction
+- Built stage events and obstacle systems to create a fast-paced arcade experience
+
+**Tech Stack:** C#, C++, Arduino, Unity
+
+[Repository](https://github.com/Ericsung20/CrossBlast-Arduino_Unity_Rhythm_Game)
+
+---
+
+## Skills
 
 **Languages**  
-Java · Python · C · C++ · JavaScript · TypeScript · SQL · HTML/CSS
+Java, Python, C, C++, JavaScript, TypeScript, SQL, HTML/CSS
 
-**Frameworks / Libraries**  
-React · React Native · Next.js · Node.js · FastAPI · Expo
+**Frameworks and Development**  
+React, React Native, Next.js, Node.js, FastAPI, Expo
 
-**Tools / Platforms**  
-Git · GitHub · VS Code · Linux · MySQL · PostgreSQL · MongoDB · OpenGL · Unity · Maya · Arduino · Matlab · Figma
-
----
-
-## 📚 Coursework
-
-- Object-Oriented Programming
-- Open-Source Programming
-- Data Representation and Algorithms
-- Database Storage and Application
-- Computer Graphics
-- Calculus I, II
-- Linear Algebra
-- Statistics
+**Tools and Platforms**  
+Git, GitHub, VS Code, Linux, MySQL, PostgreSQL, MongoDB, OpenGL, Unity, Maya, Arduino, Matlab, Figma
 
 ---
 
+## Coursework
+
+Object-Oriented Programming  
+Open-Source Programming  
+Data Representation and Algorithms  
+Database Storage and Application  
+Computer Graphics  
+Calculus I and II  
+Linear Algebra  
+Statistics
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ericsung20&show_icons=true&theme=react" />
 </div>
