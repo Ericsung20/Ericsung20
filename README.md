@@ -27,19 +27,42 @@
 
 I’m a Computer Science and Data Science student at the University of Wisconsin–Madison who enjoys building projects that connect logic, design, and real user experience.
 
-My interests include full-stack development, database systems, computer graphics, and interactive applications. I like creating software that is both technically strong and practical, whether that means a mobile app, a data system, or a game-like experience.
+My interests include full-stack development, database systems, computer graphics, interactive applications, and tools built on AI models that run locally or through APIs. I like creating software that is both technically strong and practical, whether that means a mobile app, a data system, or a game-like experience.
 
 ---
 
 ## Tech I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,git,github,vscode,linux,mysql,postgres,mongodb,unity,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,html,css,react,nextjs,nodejs,fastapi,vite,git,github,vscode,linux,mysql,postgres,mongodb,supabase,pytorch,unity,arduino,figma" />
 </p>
 
 ---
 
 ## Featured Projects
+
+### MorrowLab: Personalized Learning Analytics Platform
+Team-built study app that watches how you actually study and plans tomorrow around when you focus best. Everything runs locally in the browser.
+
+- Built the data engine that stores sessions and tasks in IndexedDB and feeds them into session scores and next-day study plans
+- Designed the classification algorithm that labels outside browser tabs and apps as study or distraction, using rules first and a local AI model for titles the rules can't decide
+- Made a real-time 3D mascot in WebGL that follows the user's head angle, gaze, and blinks from MediaPipe face tracking
+
+**Stack:** React, TypeScript, Vite, Dexie (IndexedDB), MediaPipe, WebGL  
+**Repo:** [MorrowLab](https://github.com/Ericsung20/MorrowLab)
+
+---
+
+### Tone-Texter: Chrome Extension for Natural Texting
+Chrome extension that helps non-native English speakers sound natural when they text.
+
+- Suggests tone-based rewrites (Casual, Friendly, Polite, Gen Z) for any text box on the web
+- Calls the Anthropic Claude API from a Manifest V3 service worker, with a content-script overlay for live suggestions and one-click copy or replace
+
+**Stack:** JavaScript, Chrome Extension APIs, Anthropic Claude API  
+**Repo:** [Tone-Texter](https://github.com/Ericsung20/Tone-Texter)
+
+---
 
 ### What-To-Eat UW Dining Application
 Personalized dining hall app designed for UW–Madison students.
@@ -48,7 +71,8 @@ Personalized dining hall app designed for UW–Madison students.
 - Designed user flows for hall discovery, filtering, guest mode, and preference-based experiences
 - Worked across React Native, TypeScript, Python, and PostgreSQL to support core app functionality
 
-**Stack:** React Native, TypeScript, Python, PostgreSQL
+**Stack:** React Native, TypeScript, Python, PostgreSQL  
+**Repo:** [WhatToEat-Frontend](https://github.com/Tyrrnien81/WhatToEat-Frontend)
 
 ---
 
@@ -94,6 +118,7 @@ Rhythm-based action game integrating custom hardware input with Unity gameplay.
 - Full-stack application development  
 - Database design and scalable systems  
 - Computer graphics and interactive media  
+- On-device AI and computer vision in the browser  
 - Building software that is useful in real-world settings
 
 ---
