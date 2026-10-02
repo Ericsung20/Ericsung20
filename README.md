@@ -34,12 +34,24 @@ My interests include full-stack development, database systems, computer graphics
 ## Tech I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,html,css,react,nextjs,nodejs,fastapi,vite,git,github,vscode,linux,mysql,postgres,mongodb,supabase,pytorch,unity,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts,html,css,react,nextjs,nodejs,fastapi,vite,git,github,vscode,linux,docker,mysql,postgres,mongodb,supabase,pytorch,unity,arduino,figma" />
 </p>
 
 ---
 
 ## Featured Projects
+
+### SentinelForge: Detection Engineering & Mini-SOC Lab
+Home security lab that follows an attack from the first command to the incident report: simulate an ATT&CK technique, watch the telemetry, write the detection, investigate the alert.
+
+- Set up a Windows 11 lab VM with Sysmon and a Wazuh agent that ships endpoint events to a single-node Wazuh SIEM running in Docker on WSL2
+- Mapping each simulation, detection and investigation to a MITRE ATT&CK technique ID so one technique can be traced from test to alert to report
+- Next up: Atomic Red Team tests, custom Wazuh and Sigma rules, analyst-style incident reports, and Python tooling for alert triage
+
+**Stack:** Wazuh, Sysmon, Docker, WSL2, Windows 11, MITRE ATT&CK, Sigma  
+**Repo:** [SentinelForge](https://github.com/Ericsung20/SentinelForge)
+
+---
 
 ### MorrowLab: Personalized Learning Analytics Platform
 Team-built study app that watches how you actually study and plans tomorrow around when you focus best. Everything runs locally in the browser.
@@ -119,6 +131,7 @@ Rhythm-based action game integrating custom hardware input with Unity gameplay.
 - Database design and scalable systems  
 - Computer graphics and interactive media  
 - On-device AI and computer vision in the browser  
+- Security operations and detection engineering  
 - Building software that is useful in real-world settings
 
 ---
